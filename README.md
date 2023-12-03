@@ -4,8 +4,6 @@ After spending the first 4 years of my career as a business analyst focused on q
 
 Outside of coding, I am a runner, biker, and reader! I also enjoy listening to NPR podcasts and traveling. 
 
-- 
-
 <!--
 **qicarolyn1/qicarolyn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
